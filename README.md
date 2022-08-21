@@ -6,25 +6,17 @@
  FRONTEND:- ReactJS, Redux, React Router, Axios, Material UI.
  
  
-                                                                 SIGNUP PAGE
-                                                                 ![Screenshot (326)](https://user-images.githubusercontent.com/58070156/185801148-5e59c6bf-e16e-419d-80b0-d2fa45f131bf.png)
+                                                              SIGNUP PAGE
+![Screenshot (326)](https://user-images.githubusercontent.com/58070156/185801605-cf9f00ec-75ed-44e5-87c6-64c16ba5fa59.png)
 
+                                                              LOGIN PAGE
+ ![LOGINPAGE](https://user-images.githubusercontent.com/58070156/185801672-701be985-9440-4b85-8ba8-d63e070e1583.png)
 
-                                                                 LOGIN PAGE
-                                                                 ![LOGINPAGE](https://user-images.githubusercontent.com/58070156/185801431-6789c061-3dbb-4217-a310-1b977b0834ee.png)
+                                                              ALL BLOGS PAGE
+![Screenshot (323)](https://user-images.githubusercontent.com/58070156/185801724-0f220ce4-7a82-4836-b933-4c98b7568697.png)
 
+                                                              MY BLOG PAGE
+![Screenshot (324)](https://user-images.githubusercontent.com/58070156/185801746-5c69c179-64df-408e-a86d-c2c198454dd4.png)
 
-
-                                                                 ALL BLOGS PAGE
-                                                                 ![Screenshot (323)](https://user-images.githubusercontent.com/58070156/185801477-3c65f759-d965-4dc2-8589-981eb6e680af.png)
-
-
-
-                                                                 MY BLOG PAGE
-                                                                 ![Screenshot (324)](https://user-images.githubusercontent.com/58070156/185801490-40cedb7f-f3f7-43c3-bc4b-dd618fd1f071.png)
-
-
-
-                                                                POST BLOG PAGE
-                                                                ![Screenshot (325)](https://user-images.githubusercontent.com/58070156/185801512-34f4dc78-efcf-4255-963b-5d4d523af1ad.png)
-
+                                                              POST BLOG PAGE
+![Screenshot (325)](https://user-images.githubusercontent.com/58070156/185801759-6e3cc2fe-bc98-4e6f-87f6-aa14f528a8bc.png)
